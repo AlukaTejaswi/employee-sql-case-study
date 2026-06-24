@@ -1,0 +1,34 @@
+# Project Requirements
+
+## Software Requirements
+
+* Microsoft SQL Server 2019 or later
+* SQL Server Management Studio (SSMS) 18.x or later
+* Git (optional)
+* GitHub account (optional)
+
+## Database Requirements
+
+* EmployeeCaseStudy Database
+* Location Table
+* Department Table
+* Job Table
+* Employee Table
+
+## SQL Concepts Used
+
+* SELECT Statements
+* Filtering (WHERE, LIKE, IN, BETWEEN)
+* ORDER BY
+* Aggregate Functions
+* GROUP BY and HAVING
+* Joins
+* Subqueries
+* Common Table Expressions (CTEs)
+* Window Functions (RANK, DENSE_RANK, ROW_NUMBER)
+
+## Hardware Requirements
+
+* Windows 10/11
+* Minimum 4 GB RAM
+* Minimum 2 GB free disk space
