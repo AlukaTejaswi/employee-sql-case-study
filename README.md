@@ -65,9 +65,7 @@ Stores regional information for department locations.
 * Microsoft SQL Server
 * SQL (T-SQL)
 * SQL Server Management Studio (SSMS)
-* Git & GitHub
 * Microsoft Excel
-* Microsoft PowerPoint
 
 ### SQL Concepts Applied
 
